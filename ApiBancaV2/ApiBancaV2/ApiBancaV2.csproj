@@ -91,12 +91,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\ClientesProductosController.cs" />
     <Compile Include="Controllers\ProductoController.cs" />
+    <Compile Include="Data\ClientesProductosData.cs" />
     <Compile Include="Data\Conexion.cs" />
     <Compile Include="Data\ProductoDate.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\ClientesProductos.cs" />
     <Compile Include="Models\Productos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
