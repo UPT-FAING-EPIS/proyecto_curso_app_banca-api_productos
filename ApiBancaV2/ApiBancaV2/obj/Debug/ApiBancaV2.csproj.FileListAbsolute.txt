@@ -144,3 +144,7 @@ C:\Users\falco\Desktop\Banca_Api_Productos\proyecto_curso_app_banca-api_producto
 C:\Users\falco\Desktop\Banca_Api_Productos\proyecto_curso_app_banca-api_productos\ApiBancaV2\ApiBancaV2\obj\Debug\ApiBancaV2.csproj.CopyComplete
 C:\Users\falco\Desktop\Banca_Api_Productos\proyecto_curso_app_banca-api_productos\ApiBancaV2\ApiBancaV2\obj\Debug\ApiBancaV2.dll
 C:\Users\falco\Desktop\Banca_Api_Productos\proyecto_curso_app_banca-api_productos\ApiBancaV2\ApiBancaV2\obj\Debug\ApiBancaV2.pdb
+C:\Users\falco\Desktop\Banca_Api_Productos\proyecto_curso_app_banca-api_productos\ApiBancaV2\ApiBancaV2\bin\ApiBancaV2.xml
+C:\Users\falco\Desktop\Banca_Api_Productos\proyecto_curso_app_banca-api_productos\ApiBancaV2\ApiBancaV2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\falco\Desktop\Banca_Api_Productos\proyecto_curso_app_banca-api_productos\ApiBancaV2\ApiBancaV2\bin\Swashbuckle.Core.dll
+C:\Users\falco\Desktop\Banca_Api_Productos\proyecto_curso_app_banca-api_productos\ApiBancaV2\ApiBancaV2\bin\WebActivatorEx.dll
